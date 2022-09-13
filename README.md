@@ -1,3 +1,12 @@
+This project is a short practice project for a rolodex with a serach functionality. Built with React
+
+
+![Screenshot 2022-09-14 005729](https://user-images.githubusercontent.com/79846904/189962741-3a5bac8e-3d6b-482d-a9af-a3d59bde857b.png)
+
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
